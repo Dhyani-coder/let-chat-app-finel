@@ -1,0 +1,17 @@
+body{
+
+    background:skyblue;
+    color:rgb(235, 47, 122)
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border : 2px dotted blue;
+}
+
+#OBJECT, #objects_name, #Accuracy{
+color: slateblue;
+font-size : 27px;
+    
+}
